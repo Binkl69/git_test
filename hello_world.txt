@@ -1,2 +1,5 @@
 Added temporary text to this stage, stage me
 This text is written in the linux. MAc me tell me if you are receieving in the line below.
+Ok linux us we opened this but it seems there is an issue, our git_test is inside a repo and inside the git_test itself, there is a
+repos and insde it a git_test that is actually the .git directory, weird right? 
+We are pushing your way now, check on Powell. we are changing somethin there too.
